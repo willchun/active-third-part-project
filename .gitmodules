@@ -1,0 +1,6 @@
+[submodule "android-willchun-library"]
+	path = android-willchun-library
+	url = https://github.com/willchun/android-willchun-library
+[submodule "AndroidStaggeredGrid"]
+	path = AndroidStaggeredGrid
+	url = https://github.com/etsy/AndroidStaggeredGrid.git
